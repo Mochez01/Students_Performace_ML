@@ -13,7 +13,7 @@ This project focuses on predicting student academic performance using machine le
 
 ## 🤖 Machine Learning Approach
 - **Model Type**: Simple Linear Regression
-- **Dataset**: Student Performance dataset from Kaggle
+- **Dataset**: [Student Performance Dataset on Kaggle](https://www.kaggle.com/spscientist/students-performance-in-exams)
 - **Predictor Variable**: Reading score
 - **Target Variable**: Math score
 - **Train-Test Split**: 80-20
@@ -23,7 +23,6 @@ This project focuses on predicting student academic performance using machine le
 - **R² Score**: 0.73 (73% of math score variation explained by reading scores)
 - **Model Coefficient (Slope)**: 0.83
 - **Mean Squared Error (MSE)**: 72.74
-- **Root Mean Squared Error (RMSE)**: ~8.5 points
 
 ## ⚖️ Ethical Considerations
 - Avoid reinforcing existing biases based on socioeconomic or demographic factors
@@ -37,7 +36,7 @@ This project focuses on predicting student academic performance using machine le
 student_performance/
 ├── student_performance.ipynb    # Main Jupyter notebook
 ├── README.md                    # Project documentation
-└── requirements.txt            # Project dependencies
+└── StudentsPerformance.csv            # Project Dataset
 ```
 
 ## Getting Started
@@ -45,10 +44,6 @@ student_performance/
 2. Install the required dependencies
 3. Open and run the Jupyter notebook
 
-## Dependencies
-- Python 3.x
-- Jupyter Notebook
-- Required Python packages (to be listed in requirements.txt)
 
 ## Future Improvements
 - Incorporate additional predictor variables
@@ -60,5 +55,3 @@ student_performance/
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details. 
