@@ -17,7 +17,7 @@ Improve academic equity and retention rates.
 
 ### Correlation
 
-<img src = "Students_Performace_ML/corrtable.png">
+<img src = "Students_Performace_ML\corrtable.pngL">
 
 From this analysis the key columns can be identified and how the are related to each other. The key focus areas are reading and mathematics. 
 
