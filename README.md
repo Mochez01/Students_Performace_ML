@@ -17,19 +17,19 @@ Improve academic equity and retention rates.
 
 ### Correlation
 
-<img src = "Students_Performace_ML\corrtable.pngL">
+<img src = "corrtable.png">
 
 From this analysis the key columns can be identified and how the are related to each other. The key focus areas are reading and mathematics. 
 
 ### Scatter plot
 
-<img src = "Students_Performace_ML/scatterplot.png">
+<img src = "scatterplot.png">
 
 From this analysis clustering based on gender and the distribution is observered. 
 
 ### Predicted vs. Actual
 
-<img src = "Students_Performace_ML/predictedvsactual.png">
+<img src = "predictedvsactual.png">
 
 The linear regression model achieves an R² score of 0.73, indicating that it explains 73% of the variance in students’ math scores. The mean squared error (MSE) is 72.74, translating to an average prediction error of about 8.5 points. Visually, the predictions follow the expected trend closely but show moderate spread, with slight overprediction for low scorers.
 
